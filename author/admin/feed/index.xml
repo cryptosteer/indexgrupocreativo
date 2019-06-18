@@ -1,0 +1,68 @@
+1f4f
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Admin &#8211; index</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Tue, 14 Apr 2015 21:21:37 +0000</lastBuildDate>
+	<language>es-CO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+	<item>
+		<title>Hablemos de Renders</title>
+		<link>/2015/04/03/hablamos-de-renders/</link>
+				<comments>/2015/04/03/hablamos-de-renders/#comments</comments>
+				<pubDate>Fri, 03 Apr 2015 01:38:17 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[Plantas Graficas]]></category>
+		<category><![CDATA[Recorrido Virtual]]></category>
+		<category><![CDATA[render]]></category>
+		<category><![CDATA[tour virtual]]></category>
+
+		<guid isPermaLink="false">http://www.indexgrupocreativo.com/?p=413</guid>
+				<description><![CDATA[Conceptos básicos!]]></description>
+								<content:encoded><![CDATA[<h3>Qué es un Render? un Recorrido Virtual?</h3>
+<p style="text-align: justify;">Actualmente para promocionar y/o vender un proyectos se debe optar por usar todas las herramientas posibles que hagan visualizar de manera clara y precisa lo que se esta ofreciendo, se requiere tener un material gráfico que logre ilustrar a los clientes dicho proyecto, para ello es necesario conocer la definición de estos términos.</p>
+<p style="text-align: justify;"><strong>Render</strong></p>
+<p style="text-align: justify;">Cuando hablamos de render (renderizado) nos referimos en la jerga informática al proceso de generar una imagen mediante cálculos de iluminación sacado de un modelo 3D que luego pasa una fase de postproducción o retoque para dar acabado final.</p>
+<p style="text-align: justify;"><a href="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Turbaco-1.jpg"><img class=" wp-image-311  aligncenter" src="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Turbaco-1-1024x683.jpg" alt="" width="371" height="246" srcset="/wp-content/uploads/2015/03/Turbaco-1-1024x683.jpg 1024w, /wp-content/uploads/2015/03/Turbaco-1-300x200.jpg 300w, /wp-content/uploads/2015/03/Turbaco-1-485x323.jpg 485w, /wp-content/uploads/2015/03/Turbaco-1-960x640.jpg 960w" sizes="(max-width: 371px) 100vw, 371px" /></a></p>
+<p style="text-align: justify;"><a href="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Turbaco-1.jpg"><img class=" wp-image-370  aligncenter" src="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Interior-4-1024x597.jpg" alt="Interior 4" width="374" height="218" srcset="/wp-content/uploads/2015/03/Interior-4-1024x597.jpg 1024w, /wp-content/uploads/2015/03/Interior-4-300x175.jpg 300w, /wp-content/uploads/2015/03/Interior-4-485x283.jpg 485w, /wp-content/uploads/2015/03/Interior-4-960x560.jpg 960w, /wp-content/uploads/2015/03/Interior-4.jpg 1200w" sizes="(max-width: 374px) 100vw, 374px" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Animación 3d (Recorrido Virtual)</strong></p>
+<p style="text-align: justify;">Es un video creado por una secuencia de imágenes (renders) que genera un movimiento de un objeto o simulando una cámara dentro de un espacio creado tridimencionalmente, generalmente se requieren 24 imágenes por segundo, es decir 1440 imágenes para un minuto de video. Cabe destacar que no todo el video (que dura 3:00 aprox.) se arma con animaciones 3D, también se debe hacer un trabajo de edición y postproduccion combinando imágenes fijas con imágenes en movimiento.</p>
+<p style="text-align: justify;"><iframe src="https://player.vimeo.com/video/122171316" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://vimeo.com/122171316">Cygnus edificio</a> from <a href="https://vimeo.com/user15326396">RGT PRODUCCIONES</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Tour Virtual</strong></p>
+<p style="text-align: justify;">Un tour virtual es una forma fácil, divertida e interactiva de ver un espacio en todas las direcciones con sólo mover el ratón, por medio de las &#8220;fotografías panorámicas esféricas o bien sea una renderizada&#8221;, que permiten observar el espacio en 360º, como si se estuviese en el lugar.</p>
+<p><a title="Tour Virtual" href="http://localhost/indexgrupocreativo/tour-virtual/" target="_blank">Tour Virtual &#8211; Apartamento</a></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><strong>Plantas Gráficas</strong></p>
+<p style="text-align: justify;">Las plantas gráficas (en vista 2D o 3D) nos traduce la información de los planos arquitectónicos a un lenguaje amigable para la comprensión de un proyecto, surge de la necesidad de entender dichos planos sin ser arquitecto o ingeniero.</p>
+<p style="text-align: justify;"><a href="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Planta.jpg"><img class=" wp-image-374 size-medium aligncenter" src="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Planta-250x300.jpg" alt="Planta" width="250" height="300" srcset="/wp-content/uploads/2015/03/Planta-250x300.jpg 250w, /wp-content/uploads/2015/03/Planta-853x1024.jpg 853w, /wp-content/uploads/2015/03/Planta-485x582.jpg 485w, /wp-content/uploads/2015/03/Planta-960x1152.jpg 960w, /wp-content/uploads/2015/03/Planta.jpg 1000w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+<p style="text-align: justify;"><a href="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Planta-Basha-e1428036860209.jpg"><img class="  aligncenter wp-image-376 size-medium" src="http://localhost/indexgrupocreativo/wp-content/uploads/2015/03/Planta-Basha-e1428036860209-300x220.jpg" alt="" width="300" height="220" srcset="/wp-content/uploads/2015/03/Planta-Basha-e1428036860209-300x220.jpg 300w, /wp-content/uploads/2015/03/Planta-Basha-e1428036860209-1024x751.jpg 1024w, /wp-content/uploads/2015/03/Planta-Basha-e1428036860209-485x356.jpg 485w, /wp-content/uploads/2015/03/Planta-Basha-e1428036860209-960x704.jpg 960w, /wp-content/uploads/2015/03/Planta-Basha-e1428036860209.jpg 1243w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: justify;">Hoy en día es indispensable el uso de este material gráfico que visualiza nuestras ideas como arquitectos proyectistas y que posteriormente se usará en medios impresos como brochures, flyers y vallas, también para paginas web entre otras, gracias a estas herramientas podemos literalmente caminar dentro de espacios que aun no existen!</p>
+<p style="text-align: justify;">Si tienes duda relacionado con el tema haz tu comentario y comparte en redes sociales!</p>
+]]></content:encoded>
+							<wfw:commentRss>/2015/04/03/hablamos-de-renders/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+							</item>
+	</channel>
+</rss>
+
+0
+
